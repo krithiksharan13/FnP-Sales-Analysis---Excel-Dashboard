@@ -1,7 +1,7 @@
-# FnP Project Dashboard
 
-<p align="center">
-  <img src="Logo.png" alt="FnP Logo" width="150"/>
+
+<p align="left">
+  <img src="Logo.png" alt="FnP Logo" width="150"/> # FnP Project Dashboar 
 </p>
 
 ## Problem Statement: Ferns and Petals Sales Analysis
