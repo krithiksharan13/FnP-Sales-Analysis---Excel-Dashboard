@@ -1,4 +1,4 @@
-# FnP Project Dashboard
+# (https://github.com/krithiksharan13/FnP-Sales-Analysis---Excel-Dashboard/blob/main/Logo.png)FnP Project Dashboard
 
 ## Problem Statement: Ferns and Petals Sales Analysis
 
