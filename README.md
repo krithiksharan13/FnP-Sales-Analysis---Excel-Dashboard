@@ -1,4 +1,8 @@
-# [FnP Project Dashboard](https://github.com/krithiksharan13/FnP-Sales-Analysis---Excel-Dashboard/blob/main/Logo.png)
+# FnP Project Dashboard
+
+<p align="center">
+  <img src="Logo.png" alt="FnP Logo" width="150"/>
+</p>
 
 ## Problem Statement: Ferns and Petals Sales Analysis
 
@@ -48,4 +52,3 @@ The objective of this project is to transform raw business data into actionable 
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this software with proper attribution.
-
