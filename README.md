@@ -4,6 +4,10 @@
 
 # FnP Project Dashboard
 
+<p align="center">
+  <img src="Fnp Sales Analysis Dashboard.png" alt="Dashboard"/> 
+</p>
+
 ## Problem Statement: Ferns and Petals Sales Analysis
 
 You have been given a dataset from FNP (Ferns and Petals) that specializes in sending gifts for various occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The dataset contains details about the products, orders, customers, and relevant dates.
